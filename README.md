@@ -6,7 +6,7 @@ This is a shader that can be used to make a wireframe material. It uses the geom
 
 The wireframe shader used here is based on a openGL shader posted on the [Little Grasshopper blog](http://prideout.net/blog/) and can be found in the ' Triangle tessellation in openGL 4.0' article.
 
-See [home page](https://www.digital-dust.com/single-post/2017/03/14/Wireframe-shader-in-Unity) for more information.
+See [home page](https://www.digital-dust.com/single-post/2017/03/14/Wireframe-shader-in-Unity) for more information and unity package download.
 
 
 ![WireframeShader](https://static.wixstatic.com/media/1e04d5_11804518d0a441ecbfcd6509048f7155~mv2.jpg/v1/fill/w_486,h_486,al_c,q_80,usm_0.66_1.00_0.01/1e04d5_11804518d0a441ecbfcd6509048f7155~mv2.jpg)
